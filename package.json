@@ -1,0 +1,22 @@
+{
+  "name": "jnexpert-next",
+  "version": "1.0.0",
+  "description": "This example features:",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "next": "^4.2.1",
+    "path": "^0.12.7",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "superagent": "^3.8.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
